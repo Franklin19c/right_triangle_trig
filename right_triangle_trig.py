@@ -149,9 +149,9 @@ if __name__ == "__main__":
     This is to calculate and draw the dimensions of a right triangle.
 
         5
-        /|
+       /|
     3 / |
-    /  | 2
+     /  | 2
     /___|
     4  1
 
